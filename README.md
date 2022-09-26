@@ -10,9 +10,8 @@ TODO - So in this project I will try to analyse the datasets of FIFA Worldcup, w
 * This repository presents FIFA World Cup data analysis.
 * With the help of this project we can see some useful insights and make decisions. 
 
-# Description
-The Motive of this project is to analyze FIFA World Cup Data,we have the data from 1930 to 2014. The data we have is separated by Matches ,Players and Cup Holders since 1930 to 2014. Lot of Analysis has been done with nice Visualizations to understand and to get insights from data
-
+# Description 
+The Motive of this project is to analyze FIFA World Cup Data,we have the data from 1930 to 2014. The data we have is separated by Matches ,Players and Cup Holders since 1930 to 2014. Lot of Analysis has been done with nice Visualizations to understand and to get insights from data. 
 
 ## Table Of Contents
  - [PROJECT GOAL](https://readme.so/editor#:~:text=PROJECT%20GOAL-,PROJECT%20GOAL,-This%20project%20is)
@@ -39,7 +38,8 @@ The data here i used is taken from kaggle and the data is from since 1930 to 201
 # Project Motivation
 I belongs to a sports background (Professional Badminton Player) and  I like Football vaery much, often i used to play and i will see the live telecasted football matches without missing them, so to practice PYTHON and Data Analysis, i have choosen this FIFA World Cup Dataset
 # ⏳ Dataset
-* Download the dataset for custom training
+* Download the dataset for custom training from the given link below.
+* - [Dataset Link](https://drive.google.com/drive/folders/12oHYj0qH2uZD8I13cVDiymTNDYldeJRa?usp=sharing)
 
 # 🖥️ Installation
 
@@ -54,11 +54,12 @@ I belongs to a sports background (Professional Badminton Player) and  I like Foo
 
   
 # Documentation & File Section
-[FIFA-World-Cup-Anlysis.ipynb](https://linktodocumentation) - Python Notebook
+[FIFA-World-Cup-Anlysis.ipynb](https://github.com/Saurabhgupta301/FIFA-World-CUP-Analysis/blob/main/FIFA%20Jupytor%20Notebook.ipynb) - Python Notebook
 
-All EDA Analysis have been implemented with respect to the Dataset with variuos plots
 
-📖 Please Go through [FIFA World Cup Anlysis Documentation](https://linktodocumentation)  for more info.
+All EDA Analysis have been implemented with respect to the Dataset with variuos plots.
+
+📖 Please Go through [FIFA World Cup Anlysis Documentation](https://drive.google.com/drive/folders/1AqIKDRIG0qU3uFai3nsX3ECh5bIjOhLU?usp=sharing)  for more info.
 
 # Libraries Used
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/1200px-Plotly-logo-01-square.png)
