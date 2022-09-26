@@ -96,21 +96,15 @@ This project is licensed under Apatche license.
 # Lessons Learned
 
  I learned a lot of new things, some of them are given below ---
- * Firstly, I feel more comfortable about NumPy, Pandas, Matplotlib and Seaborn after completion of this project, then i learned 
+ * Firstly, I feel more comfortable about NumPy, Pandas, Matplotlib and Seaborn after completion of this project, then i learned these document preparation which is provided by iNeuron.
+ Those reference documents are given below.
  * How to make Low Level Design (LLD) Document?
-   - [ LLD Document Link](https://drive.google.com/file/d/1ubTQ6Btg1_KGp8qgHCfeXUEkwruEwre-/view)
-
-  
  * How to make High Level Design (HLD) Document?
-   - [ HLD Document Link](https://drive.google.com/file/d/1ubTQ6Btg1_KGp8qgHCfeXUEkwruEwre-/view)
  * How to make Architecture Document Design?
-   - [ Architecture Document Link](https://drive.google.com/file/d/1ubTQ6Btg1_KGp8qgHCfeXUEkwruEwre-/view)
  * How to make Wireframe Document Design?
-   - [ Wireframe Document Link](https://drive.google.com/file/d/1ubTQ6Btg1_KGp8qgHCfeXUEkwruEwre-/view)
  * How to make Detail Project Report (DPR)?
-   - [ DPR Link](https://drive.google.com/file/d/1ubTQ6Btg1_KGp8qgHCfeXUEkwruEwre-/view)
  * How to make Project Demo Video?
-   - [ Project Video Link](https://drive.google.com/file/d/1ubTQ6Btg1_KGp8qgHCfeXUEkwruEwre-/view)
+   
  
 
  Thank you so much  [@iNeuron](https://internship.ineuron.ai/) for this Project!
@@ -125,21 +119,21 @@ Thanks for these awesome resources that were used during the analysis of this pr
 I'm a Data Science Enthusiast and Aspiring Data Analyst
 ## Hi, I'm Saurabh ! 👋
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Tableau Public](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![github]()] 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saurabhgupta301.github.io/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhgupta301/)
+[![Tableau Public](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://public.tableau.com/app/profile/saurabh.gupta1320)
+[![github](https://github.com/Saurabhgupta301/Saurabhgupta301)] 
 ## 🛠 Technical Skills
 ### * Scripting Language -
  Python
 ### Database -
- MySQL, SQL Server, Mongo DB
+ MySQL, SQL Server, PostgreSQL
 ### * Data Engineering -
  Exploratory Data analysis  
 ### * Data Visualization -        
  Tableau , Power BI 
 ### * Libraries -
-Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy, Dask
+Pandas, Numpy, Matplotlib, Seaborn, Plotly, Scipy
 ### * ML Algorithms -
 Supervised / Unsupervised
 ### * Microsoft -
