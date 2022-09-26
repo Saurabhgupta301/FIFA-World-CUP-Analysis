@@ -98,7 +98,6 @@ This project is licensed under Apatche license.
 
  I learned a lot of new things, some of them are given below ---
  * Firstly, I feel more comfortable about NumPy, Pandas, Matplotlib and Seaborn after completion of this project, then i learned these document preparation which is provided by iNeuron.
- Those reference documents are given below.
  * How to make Low Level Design (LLD) Document?
  * How to make High Level Design (HLD) Document?
  * How to make Architecture Document Design?
