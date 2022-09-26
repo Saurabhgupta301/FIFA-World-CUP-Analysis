@@ -121,7 +121,7 @@ I'm a Data Science Enthusiast and Aspiring Data Analyst
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saurabhgupta301.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhgupta301/)
-[![Tableau Public](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://public.tableau.com/app/profile/saurabh.gupta1320)
+[![Tableau Public](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/saurabh.gupta1320)
 [![github](https://github.com/Saurabhgupta301/Saurabhgupta301)] 
 ## 🛠 Technical Skills
 ### * Scripting Language -
@@ -150,6 +150,6 @@ Give a ⭐️ if this project helped you!
   
 ## Feedback
 
-If you have any feedback, please reach out to me at -[Linkdin](https://www.linkedin.com/in/saurabhgupta-active-learner)
+If you have any feedback, please reach out to me at -[Linkdin](https://www.linkedin.com/in/saurabhgupta301/)
 
   
